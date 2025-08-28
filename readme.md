@@ -1,3 +1,5 @@
+[![Deploy website via FTP](https://github.com/briomusic/sn-website/actions/workflows/deploy.yml/badge.svg)](https://github.com/briomusic/sn-website/actions/workflows/deploy.yml)
+
 # Seelen Navigatoren Website
 
 Dies ist der Quellcode der [Seelen Navigatoren Website](https://www.seelen-navigatoren.de).
