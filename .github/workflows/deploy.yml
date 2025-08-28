@@ -3,8 +3,15 @@ name: Deploy website via FTP
 
 on:
   push:
-    branches: [ main ]
-  workflow_dispatch:
+    branches: [ main ]          # only your own pushes deploy
+  workflow_dispatch:             # manual “Run workflow” in Actions tab
+
+permissions:
+  contents: read                 # least privilege for checkout
+
+concurrency:
+  group: ftp-deploy              # cancel older runs if new commits arrive
+  cancel-in-progress: true
 
 jobs:
   deploy:
@@ -21,11 +28,12 @@ jobs:
           password: ${{ secrets.DF_FTP_PASSWORD }}
           protocol: ftps
           port: 21
-          local-dir: ./        # adjust if your site lives in a subfolder
-          server-dir: ${{ secrets.DF_FTP_PATH }}  # e.g. /webseiten/
+          local-dir: ./                   # adjust if your site is in a subfolder
+          server-dir: ${{ secrets.DF_FTP_PATH }}   # e.g. /webseiten/
           exclude: |
             **/.git*
             **/.github/**
             **/node_modules/**
             **/*.md
           state-name: .ftp-deploy-sync-state.json
+
