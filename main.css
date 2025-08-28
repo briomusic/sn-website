@@ -1,0 +1,181 @@
+body {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	font-family: 'Poppins';
+	background-color: #0b3540; /* #2A2A2A;*/
+}
+
+font-family: 'Inter', sans-serif;
+
+
+
+/* Container holding the image and the text */
+.container {
+	position: relative;
+}
+
+.top-title {
+  position: absolute;
+  top: 4%;
+  right: 5%;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  font-size: 60px;
+  color: white;
+  letter-spacing: 0.5px;
+  white-space: nowrap;     /* stays on one line */
+}
+
+/* Reduce font size for small screens */
+
+@media (max-width: 800px) {
+  .top-title {
+    font-size: 40px;
+  }
+}
+
+@media (max-width: 600px) {
+  .top-title {
+    font-size: 32px;
+  }
+}
+
+@media (max-width: 400px) {
+  .top-title {
+    font-size: 26px;
+  }
+}
+
+/* End Reduce font size for small screens */
+
+/* Start Main Styles */
+
+.image-container {
+  position: relative;
+  width: 100%;
+}
+
+.dark-image {
+  width: 100%;
+  height: auto;
+  display: block;
+  		  filter: brightness(100%);
+}
+
+.overlay-content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.contents-left {
+  position: absolute;
+  bottom: 8px;
+  left: 8px;
+}
+
+.bottom-right {
+	position: absolute;
+	bottom: 8px;
+	right: 8px;
+    color: #FFFFFF;
+}
+
+
+#title {
+	font-weight: 800;
+	font-size: 70px;
+	color: #FF00FF;
+}
+
+/* Container holding indented text */
+.text-container {
+	text-align: left;
+	color: white;
+	font-size: 120%;
+}
+
+.indented-text {
+	padding-left: 10%;
+	padding-right: 5%; 
+	position: relative;
+}
+
+.disclaimer {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.9em;
+  color: #cccccc;
+  background-color: rgba(255, 255, 255, 0.05); /* subtle translucent background */
+  padding: 15px 30px;
+  margin-top: 20px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.footer {
+	text-align: center;
+}
+
+.footer a {
+	color: white;
+	margin: 20px;
+}
+
+.footer a:hover {
+	color: blue;
+}
+
+a {
+	color: #b4bbfb;
+}
+
+a:hover {
+	color: #b4bbfb;
+}
+
+h2 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+  font-size: 36px; /* adjust as needed */
+  color: white;
+  letter-spacing: 0.5px;
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+}
+
+h2 a {
+	padding: 20px;
+	color: white;
+	text-decoration: none;
+}
+
+/* End Main Styles */
+
+/* Start Cookie banner */
+.cookie-banner {
+  position: fixed; z-index: 9999; left: 0; right: 0; bottom: 0;
+  background: rgba(0,0,0,0.9); color: #fff; padding: 16px;
+  display: none; /* shown via JS if no decision yet */
+}
+.cookie-banner__inner { max-width: 960px; margin: 0 auto; display: flex; gap: 12px; align-items: center; flex-wrap: wrap; }
+.cookie-banner button {
+  background: #00aaff; border: 0; color: #fff; padding: 8px 14px; border-radius: 6px; cursor: pointer;
+}
+.cookie-banner .btn-secondary { background: #3c4a57; }
+
+.yt-consent {
+  position: relative; background: rgba(255,255,255,0.05); border: 1px solid #3c4a57;
+  border-radius: 8px; overflow: hidden; max-width: 960px; margin: 20px 0;
+}
+.yt-consent__placeholder {
+  aspect-ratio: 16 / 9; display: grid; place-items: center; padding: 20px; color: #b0d7e5; text-align: center;
+}
+.yt-consent__placeholder button {
+  margin-top: 10px; background: #00aaff; border: 0; color: #fff; padding: 8px 14px; border-radius: 6px; cursor: pointer;
+}
+/* End Cookie banner */
+
+
