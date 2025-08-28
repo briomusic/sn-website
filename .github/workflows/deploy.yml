@@ -1,0 +1,31 @@
+# .github/workflows/deploy.yml
+name: Deploy website via FTP
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Deploy via FTPS to DomainFactory
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.DF_FTP_SERVER }}
+          username: ${{ secrets.DF_FTP_USER }}
+          password: ${{ secrets.DF_FTP_PASSWORD }}
+          protocol: ftps
+          port: 21
+          local-dir: ./        # adjust if your site lives in a subfolder
+          server-dir: ${{ secrets.DF_FTP_PATH }}  # e.g. /webseiten/
+          exclude: |
+            **/.git*
+            **/.github/**
+            **/node_modules/**
+            **/*.md
+          state-name: .ftp-deploy-sync-state.json
