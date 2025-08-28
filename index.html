@@ -90,7 +90,7 @@
 
       <!-- Navigation zur Zeit nicht benutzt
       <h2>
-        <a href="#live">Termine</a><br>
+        <a href="#events">Termine</a><br>
         <a href="#media">Videos / Podcasts</a><br>
         <a href="https://www.instagram.com/seelen.navigatoren/">Kontakt / Instagram</a><br>
       </h2>
@@ -109,14 +109,21 @@
   <h2>Über Uns</h2>
 
 <div>Seelen Navigatoren ist ein Portal für die von Susanna Schwarten und <br> 
-  Brio Taliaferro organisierten <a href="#live">Treffen</a> und <a href="#media">Videos / Podcasts</a>. <br><br>Abonniert unseren <a href="#newsletter">Newsletter</a> um auf dem laufenden zu bleiben!</div>
+  Brio Taliaferro organisierten <a href="#events">Treffen</a> und <a href="#media">Videos / Podcasts</a>. <br><br>Abonniert unseren <a href="#newsletter">Newsletter</a> um auf dem laufenden zu bleiben!</div>
 
-	<a name="live"></a>
+<a name="events"></a>
 	<h2>Termine</h2> 
 
 	<div>
-<a href="ehrliches-mitteilen.html"><b>Ehrliches Mitteilen</b></a> - Wöchentlich ab Mittwoch 20.8.2025, 19:00 Uhr im <a href=https://maps.app.goo.gl/VTV6GG9Up8DjDGLy5 target="_blank" rel="noopener noreferrer">Baobab (Buckow)</a>  (Bitte vorher bei <a href="mailto:info@seelen-navigatoren.de?subject=Ehrliches Mitteilen">Susanna</a> melden)<br><br>
-<a href="maennergruppe.html"><b>Männergruppe</b></a> - Mittwoch, 3.9.2025, 19:00 Uhr im <a href=https://maps.app.goo.gl/YWeWuD2Znja4Lboe8 target="_blank" rel="noopener noreferrer">Gutsraum (Hof Prädikow)</a> (geleitet von Brio)<br><br><br>
+<a href="ehrliches-mitteilen.html"><b>Ehrliches Mitteilen</b></a> - Wöchentlich ab Mittwoch 20.8.2025, 19:00 Uhr im <a href=https://maps.app.goo.gl/VTV6GG9Up8DjDGLy5 target="_blank" rel="noopener noreferrer">Baobab (Buckow)</a>  (Bitte vorher bei <a href="mailto:info@seelen-navigatoren.de?subject=Ehrliches Mitteilen">Susanna</a> melden)<br>
+
+<!-- dynamic events list -->
+<div class="events-list"></div>
+
+<noscript><div class="events-empty">Bitte JavaScript aktivieren, um Events zu sehen.</div></noscript>
+
+
+
 	</div>
 
 		<a name="media"></a>
@@ -124,10 +131,6 @@
 
 
 <div class="yt-consent" data-yt-src="https://www.youtube.com/embed/5CYoIChYQt0?si=y2X-il9hF54ptC0B"></div>
-
-<!-- youtube iframe 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5CYoIChYQt0?si=y2X-il9hF54ptC0B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br><br>
--->
 
 		more coming soon<br><br><br>
 
@@ -368,5 +371,8 @@ Bitte wenden Sie sich bei Fragen zu einer Veranstaltung direkt an den jeweiligen
 <script src="https://www.google.com/recaptcha/api.js?hl=en"></script>
 
 <!-- END Brevo - We recommend to place the above code in footer or bottom of your website html  -->
+
+<script src="/js/events.js" defer></script>
+
 </body>
 </html>

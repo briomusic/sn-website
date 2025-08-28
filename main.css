@@ -152,6 +152,14 @@ h2 a {
 	text-decoration: none;
 }
 
+/* Events list styling */
+ul.events { list-style: none; padding: 0; margin: 0; }
+ul.events li.event { margin: 8px 0; line-height: 1.5; }
+ul.events a { color: #b4bbfb; text-decoration: none; }
+ul.events a:hover { color: #00aaff; }
+.events-empty, .events-error { opacity: 0.85; font-style: italic; }
+
+
 /* End Main Styles */
 
 /* Start Cookie banner */
