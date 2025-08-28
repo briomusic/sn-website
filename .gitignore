@@ -1,0 +1,15 @@
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+
+# Dependency / build artifacts
+node_modules/
+dist/
+build/
+
+# GitHub Actions sync state
+.ftp-deploy-sync-state.json
+
+# Local environment / secrets
+.env
+*.local
