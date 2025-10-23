@@ -45,6 +45,8 @@
   const consent = getConsent();
   if (typeof consent.media === 'undefined') {
     banner.style.display = 'block';
+    // Show placeholders for YouTube videos when banner is visible
+    loadYouTubeEmbeds();
   } else {
     loadYouTubeEmbeds();
   }
