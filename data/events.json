@@ -1,10 +1,24 @@
 {
   "events": [
     {
-      "id": "mg-2025-10-22",
+      "id": "mg-2025-11-19",
       "category": "maennergruppe",
       "title": "Männergruppe",
-      "date": "2025-10-22",
+      "date": "2025-11-19",
+      "time": "19:00",
+      "location": {
+        "name": "Gutsraum (Hof Prädikow)",
+        "url": "https://maps.app.goo.gl/YWeWuD2Znja4Lboe8"
+      },
+      "leader": "Brio",
+      "detailUrl": "/maennergruppe.html",
+      "notes": ""
+    },
+    {
+      "id": "mg-2025-12-17",
+      "category": "maennergruppe",
+      "title": "Männergruppe",
+      "date": "2025-12-17",
       "time": "19:00",
       "location": {
         "name": "Gutsraum (Hof Prädikow)",
