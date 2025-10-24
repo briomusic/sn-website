@@ -44,7 +44,7 @@
       : '';
     const when = fmtDateTime(ev?.date, ev?.time);
     const location = ev?.location ? link(ev.location.url, ev.location.name) : '';
-    const leader = ev?.leader ? ` (geleitet von ${ev.leader})` : '';
+    const leader = ev?.leader ? ` (geleitet von ${ev['leader-link'] ? `<a href="${ev['leader-link']}">${ev.leader}</a>` : ev.leader})` : '';
     const notes = ev?.notes ? ` — ${ev.notes}` : '';
     return [title, when ? ` — ${when}` : '', location ? ` — ${location}` : '', leader, notes]
       .filter(Boolean).join('');

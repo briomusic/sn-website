@@ -6,6 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
       .then(response => response.text())
       .then(html => {
         disclaimerContainer.innerHTML = html;
+        console.log('Event disclaimer loaded successfully');
       })
       .catch(error => {
         console.error('Error loading event disclaimer:', error);
