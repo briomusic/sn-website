@@ -71,5 +71,10 @@
     if (banner) banner.style.display = 'none';
     loadYouTubeEmbeds();
   });
+
+  // Listen for dynamically loaded videos
+  document.addEventListener('videosLoaded', () => {
+    loadYouTubeEmbeds();
+  });
 })();
 

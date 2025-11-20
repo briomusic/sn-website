@@ -1,0 +1,22 @@
+{
+  "videos": [
+    {
+      "id": "5CYoIChYQt0",
+      "title": "Video 1",
+      "date": "2025-01-01",
+      "url": "https://www.youtube.com/embed/5CYoIChYQt0"
+    },
+    {
+      "id": "jMWws5UUYdQ",
+      "title": "Video 2",
+      "date": "2025-01-02",
+      "url": "https://www.youtube.com/embed/jMWws5UUYdQ"
+    },
+    {
+      "id": "FpHxiKg6E1o",
+      "title": "Video 3",
+      "date": "2025-01-03",
+      "url": "https://www.youtube.com/embed/FpHxiKg6E1o"
+    }
+  ]
+}
