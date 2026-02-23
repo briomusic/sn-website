@@ -1,10 +1,8 @@
 {
   "events": [
     {
-      "id": "mg-2026-01-21",
       "category": "maennergruppe",
       "title": "Männergruppe",
-      "date": "2026-01-21",
       "time": "19:00",
       "location": {
         "name": "Gutsraum (Hof Prädikow)",
@@ -13,13 +11,13 @@
       "leader": "Brio",
       "leader-link": "/brio.html",
       "detailUrl": "/maennergruppe.html",
-      "notes": ""
+      "notes": "",
+      "id": "mg-2026-03-11",
+      "date": "2026-03-11"
     },
     {
-      "id": "mg-2026-02-18",
       "category": "maennergruppe",
       "title": "Männergruppe",
-      "date": "2026-02-18",
       "time": "19:00",
       "location": {
         "name": "Gutsraum (Hof Prädikow)",
@@ -28,13 +26,13 @@
       "leader": "Brio",
       "leader-link": "/brio.html",
       "detailUrl": "/maennergruppe.html",
-      "notes": ""
+      "notes": "",
+      "id": "mg-2026-03-25",
+      "date": "2026-03-25"
     },
     {
-      "id": "mg-2026-03-18",
       "category": "maennergruppe",
       "title": "Männergruppe",
-      "date": "2026-03-18",
       "time": "19:00",
       "location": {
         "name": "Gutsraum (Hof Prädikow)",
@@ -43,22 +41,24 @@
       "leader": "Brio",
       "leader-link": "/brio.html",
       "detailUrl": "/maennergruppe.html",
-      "notes": ""
+      "notes": "",
+      "id": "mg-2026-04-08",
+      "date": "2026-04-08"
     },
     {
+      "category": "maennergruppe",
+      "title": "Männergruppe",
+      "time": "19:00",
+      "location": {
+        "name": "Gutsraum (Hof Prädikow)",
+        "url": "https://maps.app.goo.gl/YWeWuD2Znja4Lboe8"
+      },
+      "leader": "Brio",
+      "leader-link": "/brio.html",
+      "detailUrl": "/maennergruppe.html",
+      "notes": "",
       "id": "mg-2026-04-22",
-      "category": "maennergruppe",
-      "title": "Männergruppe",
-      "date": "2026-04-22",
-      "time": "19:00",
-      "location": {
-        "name": "Gutsraum (Hof Prädikow)",
-        "url": "https://maps.app.goo.gl/YWeWuD2Znja4Lboe8"
-      },
-      "leader": "Brio",
-      "leader-link": "/brio.html",
-      "detailUrl": "/maennergruppe.html",
-      "notes": ""
+      "date": "2026-04-22"
     }
   ]
 }
