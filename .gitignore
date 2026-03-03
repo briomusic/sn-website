@@ -1,7 +1,7 @@
-# OS / Editor junk
-.DS_Store
+# Ignore hidden files and directories in the repository
+*/
+# .DS_Store
 Thumbs.db
-
 # Dependency / build artifacts
 node_modules/
 dist/
@@ -13,3 +13,4 @@ build/
 # Local environment / secrets
 .env
 *.local
+
