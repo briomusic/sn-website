@@ -127,6 +127,11 @@ font-family: 'Inter', sans-serif;
   line-height: 1.4;
 }
 
+.small-gray {
+  font-size: 0.8em;
+  color: gray;
+}
+
 .footer {
 	text-align: center;
 }
