@@ -99,8 +99,12 @@
       return;
     }
 
-    // Sort ascending by date/time
+    // Sort ascending by category (alphabetically) and then by date/time
     const all = data.events.slice().sort((a, b) => {
+      // First sort by category
+      if (a.category < b.category) return -1;
+      if (a.category > b.category) return 1;
+      // If categories are the same, sort by date/time
       const at = new Date(`${a.date || '2100-01-01'}T${(a.time || '00:00')}:00`);
       const bt = new Date(`${b.date || '2100-01-01'}T${(b.time || '00:00')}:00`);
       return at - bt;
