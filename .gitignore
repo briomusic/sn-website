@@ -1,7 +1,13 @@
-# Ignore hidden files and directories in the repository
-*/
-# .DS_Store
+# Ignore hidden files and directories (files/folders starting with .)
+.*
+
+# Allow .gitignore itself to be tracked
+!.gitignore
+
+# Ignore specific hidden files
+.DS_Store
 Thumbs.db
+
 # Dependency / build artifacts
 node_modules/
 dist/
@@ -13,4 +19,3 @@ build/
 # Local environment / secrets
 .env
 *.local
-
