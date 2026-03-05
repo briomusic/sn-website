@@ -13,7 +13,8 @@
       "detailUrl": "/ehrliches-mitteilen.html",
       "notes": "",
       "id": "em-2026-03-18",
-      "date": "2026-03-18"
+      "date": "2026-03-18",
+      "isDisplayed": true
     },
     {
       "category": "maennergruppe",
@@ -28,7 +29,8 @@
       "detailUrl": "/maennergruppe.html",
       "notes": "",
       "id": "mg-2026-04-22",
-      "date": "2026-04-22"
+      "date": "2026-04-22",
+      "isDisplayed": false
     },
     {
       "category": "maennergruppe",
@@ -43,7 +45,8 @@
       "detailUrl": "/maennergruppe.html",
       "notes": "",
       "id": "mg-2026-03-11",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "isDisplayed": false
     },
     {
       "category": "maennergruppe",
@@ -58,7 +61,8 @@
       "detailUrl": "/maennergruppe.html",
       "notes": "",
       "id": "mg-2026-03-25",
-      "date": "2026-03-25"
+      "date": "2026-03-25",
+      "isDisplayed": false
     },
     {
       "category": "maennergruppe",
@@ -73,7 +77,8 @@
       "detailUrl": "/maennergruppe.html",
       "notes": "",
       "id": "mg-2026-04-08",
-      "date": "2026-04-08"
+      "date": "2026-04-08",
+      "isDisplayed": false
     },
     {
       "category": "ehrlichesmitteilen",
@@ -88,7 +93,8 @@
       "detailUrl": "/ehrliches-mitteilen.html",
       "notes": "",
       "id": "em-2026-03-04",
-      "date": "2026-03-04"
+      "date": "2026-03-04",
+      "isDisplayed": true
     },
     {
       "category": "ehrlichesmitteilen",
@@ -103,12 +109,13 @@
       "detailUrl": "/ehrliches-mitteilen.html",
       "notes": "",
       "id": "em-2026-03-10",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "isDisplayed": true
     },
     {
       "category": "ehrlichesmitteilen",
       "title": "Ehrliches Mitteilen",
-      "time": "11:00",
+      "time": "19:35",
       "location": {
         "name": "Boabab (Buckow)",
         "url": "https://maps.app.goo.gl/VTV6GG9Up8DjDGLy5"
@@ -118,12 +125,13 @@
       "detailUrl": "/ehrliches-mitteilen.html",
       "notes": "",
       "id": "em-2026-03-17",
-      "date": "2026-03-17"
+      "date": "2026-03-17",
+      "isDisplayed": true
     },
     {
       "category": "ehrlichesmitteilen",
       "title": "Ehrliches Mitteilen",
-      "time": "11:00",
+      "time": "19:35",
       "location": {
         "name": "Boabab (Buckow)",
         "url": "https://maps.app.goo.gl/VTV6GG9Up8DjDGLy5"
@@ -133,12 +141,13 @@
       "detailUrl": "/ehrliches-mitteilen.html",
       "notes": "",
       "id": "em-2026-03-24",
-      "date": "2026-03-24"
+      "date": "2026-03-24",
+      "isDisplayed": true
     },
     {
       "category": "ehrlichesmitteilen",
       "title": "Ehrliches Mitteilen",
-      "time": "11:00",
+      "time": "19:35",
       "location": {
         "name": "Boabab (Buckow)",
         "url": "https://maps.app.goo.gl/VTV6GG9Up8DjDGLy5"
@@ -148,7 +157,8 @@
       "detailUrl": "/ehrliches-mitteilen.html",
       "notes": "",
       "id": "em-2026-03-25",
-      "date": "2026-03-25"
+      "date": "2026-03-25",
+      "isDisplayed": true
     }
   ]
 }

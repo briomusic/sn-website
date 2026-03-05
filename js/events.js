@@ -52,7 +52,7 @@
 
   const renderList = (container, items) => {
     if (!items.length) {
-      container.innerHTML = '<div class="events-empty">Keine Events vorhanden.</div>';
+      container.innerHTML = '<div class="events-empty">Termine sind derzeit in Planung.</div>';
       return;
     }
     const ul = document.createElement('ul');
@@ -117,6 +117,9 @@
       const fromToday = container.hasAttribute('data-future-only');
 
       let list = all;
+
+      // Filter by isDisplayed flag
+      list = list.filter(ev => ev.isDisplayed === true);
 
       if (cat) {
         list = list.filter(ev => ev.category === cat);
