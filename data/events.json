@@ -28,41 +28,12 @@
       "leader-link": "/brio.html",
       "detailUrl": "/maennergruppe.html",
       "notes": "",
-      "id": "mg-2026-04-22",
-      "date": "2026-04-22",
-      "isDisplayed": false
-    },
-    {
-      "category": "maennergruppe",
-      "title": "Männergruppe",
-      "time": "19:00",
-      "location": {
-        "name": "Gutsraum (Hof Prädikow)",
-        "url": "https://maps.app.goo.gl/YWeWuD2Znja4Lboe8"
-      },
-      "leader": "Brio",
-      "leader-link": "/brio.html",
-      "detailUrl": "/maennergruppe.html",
-      "notes": "",
-      "id": "mg-2026-03-11",
-      "date": "2026-03-11",
-      "isDisplayed": false
-    },
-    {
-      "category": "maennergruppe",
-      "title": "Männergruppe",
-      "time": "19:00",
-      "location": {
-        "name": "Gutsraum (Hof Prädikow)",
-        "url": "https://maps.app.goo.gl/YWeWuD2Znja4Lboe8"
-      },
-      "leader": "Brio",
-      "leader-link": "/brio.html",
-      "detailUrl": "/maennergruppe.html",
-      "notes": "",
+
+
+
       "id": "mg-2026-03-25",
       "date": "2026-03-25",
-      "isDisplayed": false
+      "isDisplayed": true
     },
     {
       "category": "maennergruppe",
@@ -76,11 +47,49 @@
       "leader-link": "/brio.html",
       "detailUrl": "/maennergruppe.html",
       "notes": "",
-      "id": "mg-2026-04-08",
-      "date": "2026-04-08",
-      "isDisplayed": false
+
+
+
+      "id": "mg-2026-04-15",
+      "date": "2026-04-15",
+      "isDisplayed": true
     },
     {
+      "category": "maennergruppe",
+      "title": "Männergruppe",
+      "time": "19:00",
+      "location": {
+        "name": "Gutsraum (Hof Prädikow)",
+        "url": "https://maps.app.goo.gl/YWeWuD2Znja4Lboe8"
+      },
+      "leader": "Brio",
+      "leader-link": "/brio.html",
+      "detailUrl": "/maennergruppe.html",
+      "notes": "",
+
+
+
+      "id": "mg-2026-04-29",
+      "date": "2026-04-29",
+      "isDisplayed": true
+    },
+    {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       "category": "ehrlichesmitteilen",
       "title": "Ehrliches Mitteilen",
       "time": "19:35",
