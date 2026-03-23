@@ -39,6 +39,38 @@
       "isDisplayed": true
     },
     {
+      "category": "maennergruppe",
+      "title": "Männergruppe",
+      "time": "19:00",
+      "location": {
+        "name": "Gutsraum (Hof Prädikow)",
+        "url": "https://maps.app.goo.gl/YWeWuD2Znja4Lboe8"
+      },
+      "leader": "Brio",
+      "leader-link": "/brio.html",
+      "detailUrl": "/maennergruppe.html",
+      "notes": "",
+      "id": "mg-2026-05-13",
+      "date": "2026-05-13",
+      "isDisplayed": true
+    },
+    {
+      "category": "maennergruppe",
+      "title": "Männergruppe",
+      "time": "19:00",
+      "location": {
+        "name": "Gutsraum (Hof Prädikow)",
+        "url": "https://maps.app.goo.gl/YWeWuD2Znja4Lboe8"
+      },
+      "leader": "Brio",
+      "leader-link": "/brio.html",
+      "detailUrl": "/maennergruppe.html",
+      "notes": "",
+      "id": "mg-2026-05-27",
+      "date": "2026-05-27",
+      "isDisplayed": true
+    },
+    {
       "category": "ehrlichesmitteilen",
       "title": "Ehrliches Mitteilen",
       "time": "11:00",
