@@ -1,41 +1,6 @@
 {
   "events": [
     {
-      "category": "ehrlichesmitteilen",
-      "title": "Ehrliches Mitteilen",
-      "time": "19:35",
-      "location": {
-        "name": "Boabab (Buckow)",
-        "url": "https://maps.app.goo.gl/VTV6GG9Up8DjDGLy5"
-      },
-      "leader": "Susanna",
-      "leader-link": "mailto:info@seelen-navigatoren.de?subject=Ehrliches Mitteilen",
-      "detailUrl": "/ehrliches-mitteilen.html",
-      "notes": "",
-      "id": "em-2026-03-18",
-      "date": "2026-03-18",
-      "isDisplayed": true
-    },
-    {
-      "category": "maennergruppe",
-      "title": "Männergruppe",
-      "time": "19:00",
-      "location": {
-        "name": "Gutsraum (Hof Prädikow)",
-        "url": "https://maps.app.goo.gl/YWeWuD2Znja4Lboe8"
-      },
-      "leader": "Brio",
-      "leader-link": "/brio.html",
-      "detailUrl": "/maennergruppe.html",
-      "notes": "",
-
-
-
-      "id": "mg-2026-03-25",
-      "date": "2026-03-25",
-      "isDisplayed": true
-    },
-    {
       "category": "maennergruppe",
       "title": "Männergruppe",
       "time": "19:00",
@@ -74,75 +39,11 @@
       "isDisplayed": true
     },
     {
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       "category": "ehrlichesmitteilen",
       "title": "Ehrliches Mitteilen",
-      "time": "19:35",
+      "time": "11:00",
       "location": {
-        "name": "Boabab (Buckow)",
-        "url": "https://maps.app.goo.gl/VTV6GG9Up8DjDGLy5"
-      },
-      "leader": "Susanna",
-      "leader-link": "mailto:info@seelen-navigatoren.de?subject=Ehrliches Mitteilen",
-      "detailUrl": "/ehrliches-mitteilen.html",
-      "notes": "",
-      "id": "em-2026-03-04",
-      "date": "2026-03-04",
-      "isDisplayed": true
-    },
-    {
-      "category": "ehrlichesmitteilen",
-      "title": "Ehrliches Mitteilen",
-      "time": "19:35",
-      "location": {
-        "name": "Boabab (Buckow)",
-        "url": "https://maps.app.goo.gl/VTV6GG9Up8DjDGLy5"
-      },
-      "leader": "Susanna",
-      "leader-link": "mailto:info@seelen-navigatoren.de?subject=Ehrliches Mitteilen",
-      "detailUrl": "/ehrliches-mitteilen.html",
-      "notes": "",
-      "id": "em-2026-03-10",
-      "date": "2026-03-10",
-      "isDisplayed": true
-    },
-    {
-      "category": "ehrlichesmitteilen",
-      "title": "Ehrliches Mitteilen",
-      "time": "19:35",
-      "location": {
-        "name": "Boabab (Buckow)",
-        "url": "https://maps.app.goo.gl/VTV6GG9Up8DjDGLy5"
-      },
-      "leader": "Susanna",
-      "leader-link": "mailto:info@seelen-navigatoren.de?subject=Ehrliches Mitteilen",
-      "detailUrl": "/ehrliches-mitteilen.html",
-      "notes": "",
-      "id": "em-2026-03-17",
-      "date": "2026-03-17",
-      "isDisplayed": true
-    },
-    {
-      "category": "ehrlichesmitteilen",
-      "title": "Ehrliches Mitteilen",
-      "time": "19:35",
-      "location": {
-        "name": "Boabab (Buckow)",
+        "name": "Baobab (Buckow)",
         "url": "https://maps.app.goo.gl/VTV6GG9Up8DjDGLy5"
       },
       "leader": "Susanna",
@@ -158,7 +59,7 @@
       "title": "Ehrliches Mitteilen",
       "time": "19:35",
       "location": {
-        "name": "Boabab (Buckow)",
+        "name": "Baobab (Buckow)",
         "url": "https://maps.app.goo.gl/VTV6GG9Up8DjDGLy5"
       },
       "leader": "Susanna",
