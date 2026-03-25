@@ -101,6 +101,118 @@
       "id": "em-2026-03-25",
       "date": "2026-03-25",
       "isDisplayed": true
+    },
+    {
+      "category": "ehrlichesmitteilen",
+      "title": "Ehrliches Mitteilen",
+      "time": "11:00",
+      "location": {
+        "name": "Baobab (Buckow)",
+        "url": "https://maps.app.goo.gl/VTV6GG9Up8DjDGLy5"
+      },
+      "leader": "Susanna",
+      "leader-link": "mailto:info@seelen-navigatoren.de?subject=Ehrliches Mitteilen",
+      "detailUrl": "/ehrliches-mitteilen.html",
+      "notes": "",
+      "id": "em-2026-04-07",
+      "date": "2026-04-07",
+      "isDisplayed": true
+    },
+    {
+      "category": "ehrlichesmitteilen",
+      "title": "Ehrliches Mitteilen",
+      "time": "11:00",
+      "location": {
+        "name": "Baobab (Buckow)",
+        "url": "https://maps.app.goo.gl/VTV6GG9Up8DjDGLy5"
+      },
+      "leader": "Susanna",
+      "leader-link": "mailto:info@seelen-navigatoren.de?subject=Ehrliches Mitteilen",
+      "detailUrl": "/ehrliches-mitteilen.html",
+      "notes": "",
+      "id": "em-2026-04-14",
+      "date": "2026-04-14",
+      "isDisplayed": true
+    },
+    {
+      "category": "ehrlichesmitteilen",
+      "title": "Ehrliches Mitteilen",
+      "time": "19:35",
+      "location": {
+        "name": "Baobab (Buckow)",
+        "url": "https://maps.app.goo.gl/VTV6GG9Up8DjDGLy5"
+      },
+      "leader": "Susanna",
+      "leader-link": "mailto:info@seelen-navigatoren.de?subject=Ehrliches Mitteilen",
+      "detailUrl": "/ehrliches-mitteilen.html",
+      "notes": "",
+      "id": "em-2026-04-15",
+      "date": "2026-04-15",
+      "isDisplayed": true
+    },
+    {
+      "category": "ehrlichesmitteilen",
+      "title": "Ehrliches Mitteilen",
+      "time": "11:00",
+      "location": {
+        "name": "Baobab (Buckow)",
+        "url": "https://maps.app.goo.gl/VTV6GG9Up8DjDGLy5"
+      },
+      "leader": "Susanna",
+      "leader-link": "mailto:info@seelen-navigatoren.de?subject=Ehrliches Mitteilen",
+      "detailUrl": "/ehrliches-mitteilen.html",
+      "notes": "",
+      "id": "em-2026-04-21",
+      "date": "2026-04-21",
+      "isDisplayed": true
+    },
+    {
+      "category": "ehrlichesmitteilen",
+      "title": "Ehrliches Mitteilen",
+      "time": "19:35",
+      "location": {
+        "name": "Baobab (Buckow)",
+        "url": "https://maps.app.goo.gl/VTV6GG9Up8DjDGLy5"
+      },
+      "leader": "Susanna",
+      "leader-link": "mailto:info@seelen-navigatoren.de?subject=Ehrliches Mitteilen",
+      "detailUrl": "/ehrliches-mitteilen.html",
+      "notes": "",
+      "id": "em-2026-04-22",
+      "date": "2026-04-22",
+      "isDisplayed": true
+    },
+    {
+      "category": "ehrlichesmitteilen",
+      "title": "Ehrliches Mitteilen",
+      "time": "11:00",
+      "location": {
+        "name": "Baobab (Buckow)",
+        "url": "https://maps.app.goo.gl/VTV6GG9Up8DjDGLy5"
+      },
+      "leader": "Susanna",
+      "leader-link": "mailto:info@seelen-navigatoren.de?subject=Ehrliches Mitteilen",
+      "detailUrl": "/ehrliches-mitteilen.html",
+      "notes": "",
+      "id": "em-2026-04-28",
+      "date": "2026-04-28",
+      "isDisplayed": true
+    },
+    {
+      "category": "ehrlichesmitteilen",
+      "title": "Ehrliches Mitteilen",
+      "time": "19:35",
+      "location": {
+        "name": "Baobab (Buckow)",
+        "url": "https://maps.app.goo.gl/VTV6GG9Up8DjDGLy5"
+      },
+      "leader": "Susanna",
+      "leader-link": "mailto:info@seelen-navigatoren.de?subject=Ehrliches Mitteilen",
+      "detailUrl": "/ehrliches-mitteilen.html",
+      "notes": "",
+      "id": "em-2026-04-29",
+      "date": "2026-04-29",
+      "isDisplayed": true
     }
   ]
 }
