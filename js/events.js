@@ -125,7 +125,7 @@
         list = list.filter(ev => ev.category === cat);
       }
 
-      if (fromToday) {
+      if (!container.hasAttribute('data-show-past')) {
         const now = new Date(); now.setHours(0,0,0,0);
         list = list.filter(ev => {
           if (!ev.date) return false;
