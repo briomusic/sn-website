@@ -43,6 +43,13 @@
       ? (ev.detailUrl ? `<a href="${ev.detailUrl}"><b>${ev.title}</b></a>` : `<b>${ev.title}</b>`)
       : '';
     const when = fmtDateTime(ev?.date, ev?.time);
+
+    if (ev?.isCancelled) {
+      const reason = ev.cancellationReason ? ` ${ev.cancellationReason}` : '';
+      const cancelled = `<span style="color:red;font-weight:bold;">FÄLLT AUS</span>${reason}`;
+      return [title, when ? ` — ${when}` : '', ` — ${cancelled}`].filter(Boolean).join('');
+    }
+
     const location = ev?.location ? link(ev.location.url, ev.location.name) : '';
     const leader = ev?.leader ? ` (geleitet von ${ev['leader-link'] ? `<a href="${ev['leader-link']}">${ev.leader}</a>` : ev.leader})` : '';
     const notes = ev?.notes ? ` — ${ev.notes}` : '';
