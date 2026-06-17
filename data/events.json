@@ -1,6 +1,6 @@
 {
   "events": [
-    {
+        {
       "category": "maennergruppe",
       "title": "Männergruppe",
       "time": "19:00",
@@ -12,62 +12,8 @@
       "leader-link": "/brio.html",
       "detailUrl": "/maennergruppe.html",
       "notes": "",
-      "id": "mg-2026-04-29",
-      "date": "2026-04-29",
-      "isDisplayed": true,
-      "isCancelled": false,
-      "cancellationReason": ""
-    },
-    {
-      "category": "maennergruppe",
-      "title": "Männergruppe",
-      "time": "19:00",
-      "location": {
-        "name": "Gutsraum (Hof Prädikow)",
-        "url": "https://maps.app.goo.gl/YWeWuD2Znja4Lboe8"
-      },
-      "leader": "Brio",
-      "leader-link": "/brio.html",
-      "detailUrl": "/maennergruppe.html",
-      "notes": "",
-      "id": "mg-2026-05-13",
-      "date": "2026-05-13",
-      "isDisplayed": true,
-      "isCancelled": true,
-      "cancellationReason": "(wegen Krankheit)"
-    },
-    {
-      "category": "maennergruppe",
-      "title": "Männergruppe",
-      "time": "19:00",
-      "location": {
-        "name": "Gutsraum (Hof Prädikow)",
-        "url": "https://maps.app.goo.gl/YWeWuD2Znja4Lboe8"
-      },
-      "leader": "Brio",
-      "leader-link": "/brio.html",
-      "detailUrl": "/maennergruppe.html",
-      "notes": "",
-      "id": "mg-2026-05-27",
-      "date": "2026-05-27",
-      "isDisplayed": true,
-      "isCancelled": false,
-      "cancellationReason": ""
-    },
-    {
-      "category": "ehrlichesmitteilen",
-      "title": "Ehrliches Mitteilen",
-      "time": "11:00",
-      "location": {
-        "name": "Baobab (Buckow)",
-        "url": "https://maps.app.goo.gl/VTV6GG9Up8DjDGLy5"
-      },
-      "leader": "Susanna",
-      "leader-link": "mailto:info@seelen-navigatoren.de?subject=Ehrliches Mitteilen",
-      "detailUrl": "/ehrliches-mitteilen.html",
-      "notes": "",
-      "id": "em-2026-04-28",
-      "date": "2026-04-28",
+      "id": "mg-2026-06-24",
+      "date": "2026-06-24",
       "isDisplayed": true,
       "isCancelled": false,
       "cancellationReason": ""
@@ -84,26 +30,8 @@
       "leader-link": "mailto:info@seelen-navigatoren.de?subject=Ehrliches Mitteilen",
       "detailUrl": "/ehrliches-mitteilen.html",
       "notes": "",
-      "id": "em-2026-04-29",
-      "date": "2026-04-29",
-      "isDisplayed": true,
-      "isCancelled": false,
-      "cancellationReason": ""
-    },
-    {
-      "category": "ehrlichesmitteilen",
-      "title": "Ehrliches Mitteilen",
-      "time": "11:00",
-      "location": {
-        "name": "Baobab (Buckow)",
-        "url": "https://maps.app.goo.gl/VTV6GG9Up8DjDGLy5"
-      },
-      "leader": "Susanna",
-      "leader-link": "mailto:info@seelen-navigatoren.de?subject=Ehrliches Mitteilen",
-      "detailUrl": "/ehrliches-mitteilen.html",
-      "notes": "",
-      "id": "em-2026-05-05",
-      "date": "2026-05-05",
+      "id": "em-2026-06-03",
+      "date": "2026-06-03",
       "isDisplayed": true,
       "isCancelled": false,
       "cancellationReason": ""
@@ -120,44 +48,8 @@
       "leader-link": "mailto:info@seelen-navigatoren.de?subject=Ehrliches Mitteilen",
       "detailUrl": "/ehrliches-mitteilen.html",
       "notes": "",
-      "id": "em-2026-05-06",
-      "date": "2026-05-06",
-      "isDisplayed": true,
-      "isCancelled": false,
-      "cancellationReason": ""
-    },
-    {
-      "category": "ehrlichesmitteilen",
-      "title": "Ehrliches Mitteilen",
-      "time": "11:00",
-      "location": {
-        "name": "Baobab (Buckow)",
-        "url": "https://maps.app.goo.gl/VTV6GG9Up8DjDGLy5"
-      },
-      "leader": "Susanna",
-      "leader-link": "mailto:info@seelen-navigatoren.de?subject=Ehrliches Mitteilen",
-      "detailUrl": "/ehrliches-mitteilen.html",
-      "notes": "",
-      "id": "em-2026-05-12",
-      "date": "2026-05-12",
-      "isDisplayed": true,
-      "isCancelled": false,
-      "cancellationReason": ""
-    },
-    {
-      "category": "ehrlichesmitteilen",
-      "title": "Ehrliches Mitteilen",
-      "time": "11:00",
-      "location": {
-        "name": "Baobab (Buckow)",
-        "url": "https://maps.app.goo.gl/VTV6GG9Up8DjDGLy5"
-      },
-      "leader": "Susanna",
-      "leader-link": "mailto:info@seelen-navigatoren.de?subject=Ehrliches Mitteilen",
-      "detailUrl": "/ehrliches-mitteilen.html",
-      "notes": "",
-      "id": "em-2026-05-19",
-      "date": "2026-05-19",
+      "id": "em-2026-06-17",
+      "date": "2026-06-17",
       "isDisplayed": true,
       "isCancelled": false,
       "cancellationReason": ""
@@ -174,26 +66,8 @@
       "leader-link": "mailto:info@seelen-navigatoren.de?subject=Ehrliches Mitteilen",
       "detailUrl": "/ehrliches-mitteilen.html",
       "notes": "",
-      "id": "em-2026-05-20",
-      "date": "2026-05-20",
-      "isDisplayed": true,
-      "isCancelled": false,
-      "cancellationReason": ""
-    },
-    {
-      "category": "ehrlichesmitteilen",
-      "title": "Ehrliches Mitteilen",
-      "time": "11:00",
-      "location": {
-        "name": "Baobab (Buckow)",
-        "url": "https://maps.app.goo.gl/VTV6GG9Up8DjDGLy5"
-      },
-      "leader": "Susanna",
-      "leader-link": "mailto:info@seelen-navigatoren.de?subject=Ehrliches Mitteilen",
-      "detailUrl": "/ehrliches-mitteilen.html",
-      "notes": "",
-      "id": "em-2026-05-26",
-      "date": "2026-05-26",
+      "id": "em-2026-06-24",
+      "date": "2026-06-24",
       "isDisplayed": true,
       "isCancelled": false,
       "cancellationReason": ""
@@ -210,8 +84,44 @@
       "leader-link": "mailto:info@seelen-navigatoren.de?subject=Ehrliches Mitteilen",
       "detailUrl": "/ehrliches-mitteilen.html",
       "notes": "",
-      "id": "em-2026-05-27",
-      "date": "2026-05-27",
+      "id": "em-2026-07-01",
+      "date": "2026-07-01",
+      "isDisplayed": true,
+      "isCancelled": false,
+      "cancellationReason": ""
+    },
+    {
+      "category": "ehrlichesmitteilen",
+      "title": "Ehrliches Mitteilen",
+      "time": "19:35",
+      "location": {
+        "name": "Baobab (Buckow)",
+        "url": "https://maps.app.goo.gl/VTV6GG9Up8DjDGLy5"
+      },
+      "leader": "Susanna",
+      "leader-link": "mailto:info@seelen-navigatoren.de?subject=Ehrliches Mitteilen",
+      "detailUrl": "/ehrliches-mitteilen.html",
+      "notes": "",
+      "id": "em-2026-07-15",
+      "date": "2026-07-15",
+      "isDisplayed": true,
+      "isCancelled": false,
+      "cancellationReason": ""
+    },
+    {
+      "category": "ehrlichesmitteilen",
+      "title": "Ehrliches Mitteilen",
+      "time": "19:35",
+      "location": {
+        "name": "Baobab (Buckow)",
+        "url": "https://maps.app.goo.gl/VTV6GG9Up8DjDGLy5"
+      },
+      "leader": "Susanna",
+      "leader-link": "mailto:info@seelen-navigatoren.de?subject=Ehrliches Mitteilen",
+      "detailUrl": "/ehrliches-mitteilen.html",
+      "notes": "",
+      "id": "em-2026-07-29",
+      "date": "2026-07-29",
       "isDisplayed": true,
       "isCancelled": false,
       "cancellationReason": ""
