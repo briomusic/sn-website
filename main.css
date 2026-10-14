@@ -47,6 +47,19 @@ font-family: 'Inter', sans-serif;
   }
 }
 
+.mobile-break {
+  display: none;
+}
+
+@media (max-width: 600px) {
+  .mobile-break {
+    display: inline;
+  }
+  .desktop-space {
+    display: none;
+  }
+}
+
 /* End Reduce font size for small screens */
 
 /* Start Main Styles */
