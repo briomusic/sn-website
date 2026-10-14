@@ -2,7 +2,8 @@
 document.addEventListener('DOMContentLoaded', function() {
   const disclaimerContainer = document.getElementById('general-disclaimer-container');
   if (disclaimerContainer) {
-    fetch('components/general-disclaimer.html')
+    const lang = document.documentElement.lang === 'en' ? '-en' : '';
+    fetch('components/general-disclaimer' + lang + '.html')
       .then(response => response.text())
       .then(html => {
         disclaimerContainer.innerHTML = html;

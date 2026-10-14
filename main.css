@@ -210,3 +210,32 @@ ul.events a:hover { color: #00aaff; }
 }
 
 
+
+/* Start Language switch */
+.heading-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+}
+.lang-switch {
+  display: flex;
+  gap: 8px;
+}
+.lang-switch a {
+  display: block;
+  line-height: 0;
+  opacity: 0.5;
+  transition: opacity 0.2s;
+}
+.lang-switch a:hover,
+.lang-switch a.active {
+  opacity: 1;
+}
+.lang-switch svg {
+  width: 32px;
+  height: 20px;
+  border-radius: 3px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.4);
+}
+/* End Language switch */
