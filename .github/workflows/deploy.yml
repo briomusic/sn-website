@@ -35,5 +35,10 @@ jobs:
             **/.github/**
             **/node_modules/**
             **/*.md
+            CLAUDE.md
+            readme.md
+            README.md
+            **/.claude/**
+            **/.vscode/**
           state-name: .ftp-deploy-sync-state.json
 
